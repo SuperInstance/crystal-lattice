@@ -1,0 +1,9 @@
+[package]
+name = "crystal-lattice"
+version = "0.1.0"
+description = "Crystallographic data structures with unit cells, Bravais lattices, Miller indices, defects, and symmetry operations"
+repository = "https://github.com/SuperInstance/crystal-lattice"
+license = "MIT"
+edition = "2021"
+
+[dependencies]
